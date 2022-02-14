@@ -2,89 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "firstName": "Test",
+      "lastName": "Param",
+      "emailID": "test@gmail.com",
+      "mobileNumber": "9876543210",
+      "salary": "100000"
     },
     {
       "id": 2,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 3,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 4,
-      "firstName": null,
-      "lastName": null,
-      "emailID": null,
-      "mobileNumber": null,
-      "salary": null
-    },
-    {
-      "id": 5,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 6,
-      "firstName": "Don ka adda",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 7,
-      "firstName": "Don ka adda",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 8,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 9,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
-    },
-    {
-      "id": 10,
-      "firstName": "",
-      "lastName": "",
-      "emailID": "",
-      "mobileNumber": "",
-      "salary": ""
+      "firstName": "Test",
+      "lastName": "Qodestek",
+      "emailID": "test@qodestek.com",
+      "mobileNumber": "1234567890",
+      "salary": "35000"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
